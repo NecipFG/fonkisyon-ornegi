@@ -10,4 +10,4 @@ sayi = int(input("Sayı Giriniz: "))
 factoriel(sayi)
 
 
-#bu bir fonkisyon ornegidir. Sadece phyton ile calisir.
+#bu bir fonkisyon ornegidir.Sadece phyton ile calisir.
